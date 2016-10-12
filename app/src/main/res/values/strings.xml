@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BITSAssignmentOne</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="alert_dialog_yes">Yes</string>
+    <string name="alert_dialog_no">No</string>
+    <string name="alert_message">Do you want to logout?</string>
+    <string name="logout_button">Logout</string>
+    <string name="landing_text">I am good to go Android</string>
+</resources>
